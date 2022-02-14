@@ -1,4 +1,8 @@
-form {
+.firstDiv {
+  display: flex;
+}
+
+.secondDiv {
   display: flex;
 }
 
@@ -16,4 +20,12 @@ form {
   left: 10px;
   width: 150px;
   height: 20px;
+}
+
+.play {
+  position: relative;
+  top: 19px;
+  left: 20px;
+  width: 50px;
+  height: 28px;
 }
